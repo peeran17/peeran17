@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**peeran17/peeran17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="./banner.png" width="100%" alt="Peeran — Data Analytics and Machine Learning. Python, Pandas, SQL, Power BI, and Excel.">
 
 <p align="center">
