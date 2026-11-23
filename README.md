@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># Hi, I’m Peeran 👋
+
+![Animated introduction about SQL analysis and Power BI dashboards](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=14B8A6&width=650&lines=Exploring+business+questions+with+SQL;Building+dashboards+with+Power+BI)
+
+I’m a B.Tech student at Saveetha School of Engineering seeking a
+Data Analyst internship. I use SQL, Python, and Power BI to explore
+data and explain what I find.
+
+**Tools I work with** · SQL Server · MySQL · Python · pandas · Excel · Power BI
